@@ -26,3 +26,4 @@ localhost:5555
 
 ### Authors
 - Kennard Wicoady
+- xuyu (https://github.com/xuyu/goredis)
